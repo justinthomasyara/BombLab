@@ -1,0 +1,7 @@
+There are rumors on the internets.
+0 1 3 6 10 15
+3 w 936
+1 11
+oooodc
+6 4 3 2 5 1
+
